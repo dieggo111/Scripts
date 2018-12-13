@@ -63,7 +63,7 @@ class InitGlobals(object):
             raise ValueError("No credentials file found.")
 
         # accepted projects
-        self.projects = ["HPK_2S_I", "HPK_2S_II", "CEC BabyStd", "CEC Bstd",
+        self.projects = ["HPK_2S_I", "HPK_2S_II", "HPK_2S_III", "CEC BabyStd", "CEC Bstd",
                          "CEC BPA", "CEC Badd", "CalibrationDiodes",
                          "NitroStrip"]
 
